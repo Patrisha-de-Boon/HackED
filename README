@@ -1,1 +1,7 @@
-This is a repository that we will use for most of our HackED Beta participation.
+This is an android app created by Arseniy Kouzmenkov and Patrisha de Boon
+
+This app allows the user to chose the type of dice they wish to roll, and a random number is then generated based on that choice. 
+This app mimics dice rolls for d4, d6, d8, d10, d12, and d20 dice. 
+
+The app will later be modified to be compatible with android wear, and the hope is to use this as an oportunyity to learn how to 
+animate using jave in order to show animations of the dice rolls for each of the different dice. 
